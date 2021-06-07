@@ -1,0 +1,2 @@
+rootProject.name = "sw_test"
+include ':app'
